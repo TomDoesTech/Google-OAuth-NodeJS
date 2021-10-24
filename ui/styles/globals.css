@@ -1,0 +1,36 @@
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: 0 auto;
+}
+label {
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+input {
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+.form-element {
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  font-size: 1.5rem;
+  color: red;
+}
+
+button {
+  padding: 1rem;
+  font-size: 1.5rem;
+  background-color: blueviolet;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
